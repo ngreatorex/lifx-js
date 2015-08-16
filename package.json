@@ -1,0 +1,9 @@
+{
+  "name": "lifx-js",
+  "version": "0.0.1",
+  "description": "Library for controlling LiFX lightbulbs based on v2 protocol/firmware",
+  "main": "index.js",
+  "author": "Neil Greatorex <neil@fatboyfat.co.uk>",
+  "repository": "http://github.com/ngreatorex/lifx-js",
+  "license": "ISC"
+}
